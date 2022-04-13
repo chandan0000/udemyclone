@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73676354344",
+    "project_id": "udemyclone-5864a",
+    "storage_bucket": "udemyclone-5864a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73676354344:android:f7820a11ebb47f9fdd161d",
+        "android_client_info": {
+          "package_name": "com.example.udemyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73676354344-arrm817gncj5v5fv87edodk1g2cusa54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.udemyclone",
+            "certificate_hash": "1e66ccaa84be37a36073a0815736faf8673a94bf"
+          }
+        },
+        {
+          "client_id": "73676354344-g40r1koeeih09va6r0k0btjbnlpeiaa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbi69aPHQ3TQjvkXN7XcZto5qRju4GlPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73676354344-g40r1koeeih09va6r0k0btjbnlpeiaa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
